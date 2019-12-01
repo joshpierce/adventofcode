@@ -18,6 +18,6 @@ node main-01.js
 node main-02.js
 ```
 
-If you have any questions, or suggestions for how I might improve the solves that I have listed, please post an issue here on my github page or reach out to me on twitter at https://twitter.com/joshuapiercecom
+If you have any questions, or suggestions for how I might improve the solves that I have listed, please post an issue here on my github page or reach out to me on Twitter [@joshuapiercecom](https://twitter.com/joshuapiercecom).
 
 Happy Code Holidays!
