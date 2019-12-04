@@ -53,6 +53,7 @@ for (var x = 0; x < wirepaths.length; x++) {
 }
 
 //Find Intersections
+//This part is slow as can be, and would be faster if I would have used sets
 let intersections = [];
 for (var x = 0; x < wires[0].length; x++) {    
     console.log(x);
